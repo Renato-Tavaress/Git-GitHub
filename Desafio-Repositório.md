@@ -16,15 +16,25 @@ Git Push - (Envia o versionamento do código para o github)
 
 Git Reflog (Verifica o histórico de atualizações das versões)
 
+Git reset --hard "id da versão" (navega sobre as versões do código)
+
+Git branch "nome branch" (criar branchs para versões em desenvolvimento)
+
+git checkout "nome da branch" (alternamos de branch)
+
+git checkout -b "nome da branch de origem" "nome da nova branch"
+
+git pull (traz atualizações dos servidores com a maquina local)
+
+Git Merge "branch que quer unir a versão atual"(Uni as versões dos códigos)
+
 Git Clone (clonar um repositório)
 
+touch .gitIgnore (cria um arquivo a ser adicionado as restrições)
 
 
 
-
-
-
-**Comandos Configurações **
+**Comandos Configurações**
 
 git config --golbal user.email "email"
 
