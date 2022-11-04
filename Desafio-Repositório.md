@@ -14,7 +14,15 @@ Git Status - (Mostra os arquivos no controle de versão)
 
 Git Push - (Envia o versionamento do código para o github)
 
+Git Reflog (Verifica o histórico de atualizações das versões)
+
 Git Clone (clonar um repositório)
+
+
+
+
+
+
 
 **Comandos Configurações **
 
