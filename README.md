@@ -1,2 +1,3 @@
-# BootCamp NTTDATA - DIO
-**Introdução ao GIT/GitHub**
+# Git/GitHub
+- Criando Meu Primeiro Repositório
+## BootCamp NTTDATA
